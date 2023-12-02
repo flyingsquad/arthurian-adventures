@@ -2,6 +2,9 @@
   "id": "arthurian-adventures",
   "title": "Arthurian Adventures",
   "version": "1.0.0",
+  "download": "https://github.com/flyingsquad/arthurian-adventures/archive/refs/tags/v1.0.0.zip",
+  "url": "https://github.com/flyingsquad/arthurian-adventures",
+  "manifest": "https://raw.githubusercontent.com/flyingsquad/arthurian-adventures/main/module.json",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
