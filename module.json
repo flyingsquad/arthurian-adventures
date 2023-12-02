@@ -1,0 +1,77 @@
+{
+  "id": "arthurian-adventures",
+  "title": "Arthurian Adventures",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "blk",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Arthurian Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "arthurian-journals",
+      "label": "Arthurian Journals",
+      "path": "packs/arthurian-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "athurian-scenes",
+      "label": "Athurian Scenes",
+      "path": "packs/athurian-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "athurian-adventures",
+      "label": "Athurian Adventures",
+      "path": "packs/athurian-adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "athurian-items",
+      "label": "Athurian Items",
+      "path": "packs/athurian-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
