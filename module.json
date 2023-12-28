@@ -42,7 +42,7 @@
     },
     {
       "name": "athurian-scenes",
-      "label": "Athurian Scenes",
+      "label": "Arthurian Scenes",
       "path": "packs/athurian-scenes",
       "type": "Scene",
       "ownership": {
@@ -54,7 +54,7 @@
     },
     {
       "name": "athurian-adventures",
-      "label": "Athurian Adventures",
+      "label": "Arthurian Adventures",
       "path": "packs/athurian-adventures",
       "type": "Adventure",
       "ownership": {
@@ -66,7 +66,7 @@
     },
     {
       "name": "athurian-items",
-      "label": "Athurian Items",
+      "label": "Arthurian Items",
       "path": "packs/athurian-items",
       "type": "Item",
       "ownership": {
